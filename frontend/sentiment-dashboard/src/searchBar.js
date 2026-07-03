@@ -1,46 +1,46 @@
 import React, { useState } from 'react';
-import { products } from './mockdata';
 
 function SearchBar({ setProduct }) {
   const [query, setQuery] = useState('');
 
-  const handleSearch = () => {
+  // 🔥 CHANGE THIS TO YOUR RENDER BACKEND URL
+  const API_URL ="https://product-sentiment-analyzer-utip.onrender.com/";
+
+  const handleSearch = async () => {
     if (!query) {
       alert("Please select or enter a product");
       return;
     }
 
-    const found = products.find(
-      (p) => p.name.toLowerCase() === query.toLowerCase()
-    );
+    try {
+      // 🔥 Fetch products from backend
+      const response = await fetch(`${API_URL}/products`);
+      const data = await response.json();
 
-    if (found) {
-      setProduct(found);
-    } else {
-      alert("Product not found!");
+      // Find matching product
+      const found = data.find(
+        (p) => p.toLowerCase() === query.toLowerCase()
+      );
+
+      if (found) {
+        setProduct(found);
+      } else {
+        alert("Product not found!");
+        setProduct(null);
+      }
+    } catch (error) {
+      console.error("Error fetching products:", error);
+      alert("Backend not reachable!");
       setProduct(null);
     }
   };
 
   return (
     <div style={styles.container}>
-      <select
-        style={styles.input}
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-      >
-        <option value="">Select a Product</option>
-        {products.map((p) => (
-          <option key={p.id} value={p.name}>
-            {p.name}
-          </option>
-        ))}
-      </select>
-
       <input
         style={styles.input}
         type="text"
-        placeholder="Or type product name..."
+        placeholder="Search product..."
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
