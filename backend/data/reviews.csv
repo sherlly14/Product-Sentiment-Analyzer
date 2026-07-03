@@ -1,0 +1,401 @@
+product_name,overall_rating,review_rating,review_title,review_text
+iPhone 15,4.6,4,Satisfied,Overall performance is good for the price.
+iPhone 15,4.6,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+iPhone 15,4.6,5,Excellent phone,Very fast phone with premium build quality.
+iPhone 15,4.6,4,Very good,Display is bright and colourful.
+iPhone 15,4.6,4,Good choice,Worth buying.
+iPhone 15,4.6,2,Needs improvement,Camera quality did not meet expectations.
+iPhone 15,4.6,3,Good but could improve,Expected more features.
+iPhone 15,4.6,4,Value for money,Battery lasts all day with moderate usage.
+iPhone 15,4.6,3,Okay overall,Camera is average in low light.
+iPhone 15,4.6,5,Worth every penny,Very fast phone with premium build quality.
+iPhone 15,4.6,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+iPhone 15,4.6,5,Highly recommended,Very fast phone with premium build quality.
+iPhone 15,4.6,4,Very good,Battery lasts all day with moderate usage.
+iPhone 15,4.6,4,Very good,Good software experience.
+iPhone 15,4.6,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+iPhone 15,4.6,5,Awesome camera,Gaming performance is excellent without heating.
+iPhone 15,4.6,5,Worth every penny,Very fast phone with premium build quality.
+iPhone 15,4.6,4,Nice product,Battery lasts all day with moderate usage.
+iPhone 15,4.6,5,Awesome camera,Highly recommended for everyday use.
+iPhone 15,4.6,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+Samsung Galaxy S24,4.5,5,Awesome camera,Gaming performance is excellent without heating.
+Samsung Galaxy S24,4.5,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Samsung Galaxy S24,4.5,4,Satisfied,Battery lasts all day with moderate usage.
+Samsung Galaxy S24,4.5,2,Needs improvement,Not worth the current price.
+Samsung Galaxy S24,4.5,5,Worth every penny,Highly recommended for everyday use.
+Samsung Galaxy S24,4.5,4,Nice product,Good software experience.
+Samsung Galaxy S24,4.5,4,Value for money,Display is bright and colourful.
+Samsung Galaxy S24,4.5,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Samsung Galaxy S24,4.5,4,Very good,Overall performance is good for the price.
+Samsung Galaxy S24,4.5,5,Excellent phone,Very fast phone with premium build quality.
+Samsung Galaxy S24,4.5,3,Average experience,Expected more features.
+Samsung Galaxy S24,4.5,5,Excellent phone,"Excellent display, smooth performance and amazing battery life."
+Samsung Galaxy S24,4.5,5,Highly recommended,Very fast phone with premium build quality.
+Samsung Galaxy S24,4.5,5,Awesome camera,Gaming performance is excellent without heating.
+Samsung Galaxy S24,4.5,4,Value for money,Worth buying.
+Samsung Galaxy S24,4.5,5,Awesome camera,Highly recommended for everyday use.
+Samsung Galaxy S24,4.5,4,Good choice,Overall performance is good for the price.
+Samsung Galaxy S24,4.5,5,Excellent phone,Highly recommended for everyday use.
+Samsung Galaxy S24,4.5,3,Okay overall,Battery backup could be better.
+Samsung Galaxy S24,4.5,4,Good choice,Worth buying.
+OnePlus 12,4.5,4,Value for money,Battery lasts all day with moderate usage.
+OnePlus 12,4.5,3,Mixed feelings,Expected more features.
+OnePlus 12,4.5,4,Satisfied,Battery lasts all day with moderate usage.
+OnePlus 12,4.5,5,Awesome camera,Highly recommended for everyday use.
+OnePlus 12,4.5,5,Mind-blowing purchase,Highly recommended for everyday use.
+OnePlus 12,4.5,4,Satisfied,Overall performance is good for the price.
+OnePlus 12,4.5,5,Highly recommended,Highly recommended for everyday use.
+OnePlus 12,4.5,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+OnePlus 12,4.5,4,Very good,Overall performance is good for the price.
+OnePlus 12,4.5,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+OnePlus 12,4.5,3,Decent phone,Overall an average experience.
+OnePlus 12,4.5,4,Very good,Display is bright and colourful.
+OnePlus 12,4.5,4,Very good,Display is bright and colourful.
+OnePlus 12,4.5,4,Satisfied,Good software experience.
+OnePlus 12,4.5,5,Excellent phone,Gaming performance is excellent without heating.
+OnePlus 12,4.5,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+OnePlus 12,4.5,2,Could be better,Camera quality did not meet expectations.
+OnePlus 12,4.5,5,Mind-blowing purchase,Very fast phone with premium build quality.
+OnePlus 12,4.5,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+OnePlus 12,4.5,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Google Pixel 8,4.4,4,Value for money,Overall performance is good for the price.
+Google Pixel 8,4.4,5,Worth every penny,Gaming performance is excellent without heating.
+Google Pixel 8,4.4,4,Very good,Battery lasts all day with moderate usage.
+Google Pixel 8,4.4,2,Could be better,Battery performance is disappointing.
+Google Pixel 8,4.4,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+Google Pixel 8,4.4,5,Worth every penny,Highly recommended for everyday use.
+Google Pixel 8,4.4,4,Nice product,Worth buying.
+Google Pixel 8,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Google Pixel 8,4.4,3,Okay overall,Performance is decent but software needs improvement.
+Google Pixel 8,4.4,4,Satisfied,Display is bright and colourful.
+Google Pixel 8,4.4,4,Satisfied,Battery lasts all day with moderate usage.
+Google Pixel 8,4.4,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Google Pixel 8,4.4,5,Mind-blowing purchase,Highly recommended for everyday use.
+Google Pixel 8,4.4,5,Highly recommended,Highly recommended for everyday use.
+Google Pixel 8,4.4,4,Very good,Good software experience.
+Google Pixel 8,4.4,4,Nice product,Display is bright and colourful.
+Google Pixel 8,4.4,3,Okay overall,Battery backup could be better.
+Google Pixel 8,4.4,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Google Pixel 8,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Google Pixel 8,4.4,5,Awesome camera,Very fast phone with premium build quality.
+Nothing Phone 2,4.3,2,Average camera,Camera quality did not meet expectations.
+Nothing Phone 2,4.3,4,Satisfied,Worth buying.
+Nothing Phone 2,4.3,4,Very good,Overall performance is good for the price.
+Nothing Phone 2,4.3,4,Nice product,Battery lasts all day with moderate usage.
+Nothing Phone 2,4.3,5,Highly recommended,Very fast phone with premium build quality.
+Nothing Phone 2,4.3,4,Value for money,Good software experience.
+Nothing Phone 2,4.3,5,Excellent phone,Highly recommended for everyday use.
+Nothing Phone 2,4.3,5,Awesome camera,Very fast phone with premium build quality.
+Nothing Phone 2,4.3,4,Very good,Overall performance is good for the price.
+Nothing Phone 2,4.3,4,Nice product,Worth buying.
+Nothing Phone 2,4.3,5,Worth every penny,Highly recommended for everyday use.
+Nothing Phone 2,4.3,4,Good choice,Worth buying.
+Nothing Phone 2,4.3,3,Decent phone,Overall an average experience.
+Nothing Phone 2,4.3,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Nothing Phone 2,4.3,5,Worth every penny,Very fast phone with premium build quality.
+Nothing Phone 2,4.3,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+Nothing Phone 2,4.3,5,Worth every penny,Gaming performance is excellent without heating.
+Nothing Phone 2,4.3,5,Mind-blowing purchase,Very fast phone with premium build quality.
+Nothing Phone 2,4.3,5,Mind-blowing purchase,Highly recommended for everyday use.
+Nothing Phone 2,4.3,3,Okay overall,Overall an average experience.
+Realme GT 6,4.4,4,Nice product,Good software experience.
+Realme GT 6,4.4,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Realme GT 6,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Realme GT 6,4.4,4,Good choice,Display is bright and colourful.
+Realme GT 6,4.4,4,Satisfied,Display is bright and colourful.
+Realme GT 6,4.4,4,Very good,Good software experience.
+Realme GT 6,4.4,3,Average experience,Camera is average in low light.
+Realme GT 6,4.4,2,Needs improvement,Software has occasional lag.
+Realme GT 6,4.4,5,Highly recommended,Gaming performance is excellent without heating.
+Realme GT 6,4.4,5,Excellent phone,Highly recommended for everyday use.
+Realme GT 6,4.4,5,Awesome camera,Very fast phone with premium build quality.
+Realme GT 6,4.4,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Realme GT 6,4.4,3,Average experience,Expected more features.
+Realme GT 6,4.4,4,Good choice,Display is bright and colourful.
+Realme GT 6,4.4,4,Value for money,Battery lasts all day with moderate usage.
+Realme GT 6,4.4,5,Awesome camera,Very fast phone with premium build quality.
+Realme GT 6,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+Realme GT 6,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Realme GT 6,4.4,4,Value for money,Good software experience.
+Realme GT 6,4.4,5,Mind-blowing purchase,Very fast phone with premium build quality.
+Redmi Note 13 Pro,4.3,5,Mind-blowing purchase,Very fast phone with premium build quality.
+Redmi Note 13 Pro,4.3,5,Awesome camera,Very fast phone with premium build quality.
+Redmi Note 13 Pro,4.3,5,Excellent phone,Highly recommended for everyday use.
+Redmi Note 13 Pro,4.3,3,Decent phone,Overall an average experience.
+Redmi Note 13 Pro,4.3,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+Redmi Note 13 Pro,4.3,5,Awesome camera,Gaming performance is excellent without heating.
+Redmi Note 13 Pro,4.3,4,Value for money,Display is bright and colourful.
+Redmi Note 13 Pro,4.3,4,Value for money,Overall performance is good for the price.
+Redmi Note 13 Pro,4.3,5,Highly recommended,Gaming performance is excellent without heating.
+Redmi Note 13 Pro,4.3,4,Nice product,Worth buying.
+Redmi Note 13 Pro,4.3,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+Redmi Note 13 Pro,4.3,4,Value for money,Worth buying.
+Redmi Note 13 Pro,4.3,5,Excellent phone,Camera quality is outstanding in all lighting conditions.
+Redmi Note 13 Pro,4.3,4,Nice product,Battery lasts all day with moderate usage.
+Redmi Note 13 Pro,4.3,5,Awesome camera,Highly recommended for everyday use.
+Redmi Note 13 Pro,4.3,3,Decent phone,Battery backup could be better.
+Redmi Note 13 Pro,4.3,2,Not as expected,Heating issue during gaming.
+Redmi Note 13 Pro,4.3,4,Nice product,Display is bright and colourful.
+Redmi Note 13 Pro,4.3,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+Redmi Note 13 Pro,4.3,4,Good choice,Battery lasts all day with moderate usage.
+POCO X6 Pro,4.4,4,Nice product,Good software experience.
+POCO X6 Pro,4.4,4,Good choice,Overall performance is good for the price.
+POCO X6 Pro,4.4,5,Worth every penny,Gaming performance is excellent without heating.
+POCO X6 Pro,4.4,4,Nice product,Display is bright and colourful.
+POCO X6 Pro,4.4,2,Not as expected,Camera quality did not meet expectations.
+POCO X6 Pro,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+POCO X6 Pro,4.4,5,Highly recommended,Highly recommended for everyday use.
+POCO X6 Pro,4.4,4,Value for money,Display is bright and colourful.
+POCO X6 Pro,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+POCO X6 Pro,4.4,3,Good but could improve,Battery backup could be better.
+POCO X6 Pro,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+POCO X6 Pro,4.4,4,Good choice,Good software experience.
+POCO X6 Pro,4.4,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+POCO X6 Pro,4.4,4,Good choice,Battery lasts all day with moderate usage.
+POCO X6 Pro,4.4,5,Excellent phone,"Excellent display, smooth performance and amazing battery life."
+POCO X6 Pro,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+POCO X6 Pro,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+POCO X6 Pro,4.4,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+POCO X6 Pro,4.4,4,Good choice,Good software experience.
+POCO X6 Pro,4.4,3,Average experience,Camera is average in low light.
+Vivo V30,4.4,5,Highly recommended,Highly recommended for everyday use.
+Vivo V30,4.4,3,Mixed feelings,Camera is average in low light.
+Vivo V30,4.4,3,Okay overall,Overall an average experience.
+Vivo V30,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Vivo V30,4.4,4,Nice product,Overall performance is good for the price.
+Vivo V30,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Vivo V30,4.4,4,Very good,Worth buying.
+Vivo V30,4.4,5,Excellent phone,Highly recommended for everyday use.
+Vivo V30,4.4,4,Value for money,Display is bright and colourful.
+Vivo V30,4.4,4,Very good,Overall performance is good for the price.
+Vivo V30,4.4,4,Good choice,Overall performance is good for the price.
+Vivo V30,4.4,2,Needs improvement,Not worth the current price.
+Vivo V30,4.4,4,Good choice,Worth buying.
+Vivo V30,4.4,4,Very good,Overall performance is good for the price.
+Vivo V30,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Vivo V30,4.4,5,Worth every penny,Highly recommended for everyday use.
+Vivo V30,4.4,5,Highly recommended,"Excellent display, smooth performance and amazing battery life."
+Vivo V30,4.4,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Vivo V30,4.4,5,Highly recommended,Highly recommended for everyday use.
+Vivo V30,4.4,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+OPPO Reno 11,4.3,4,Very good,Worth buying.
+OPPO Reno 11,4.3,2,Could be better,Software has occasional lag.
+OPPO Reno 11,4.3,5,Worth every penny,Highly recommended for everyday use.
+OPPO Reno 11,4.3,5,Excellent phone,Very fast phone with premium build quality.
+OPPO Reno 11,4.3,5,Mind-blowing purchase,Very fast phone with premium build quality.
+OPPO Reno 11,4.3,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+OPPO Reno 11,4.3,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+OPPO Reno 11,4.3,4,Satisfied,Display is bright and colourful.
+OPPO Reno 11,4.3,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+OPPO Reno 11,4.3,5,Worth every penny,Very fast phone with premium build quality.
+OPPO Reno 11,4.3,5,Excellent phone,Gaming performance is excellent without heating.
+OPPO Reno 11,4.3,4,Nice product,Worth buying.
+OPPO Reno 11,4.3,3,Decent phone,Performance is decent but software needs improvement.
+OPPO Reno 11,4.3,4,Very good,Display is bright and colourful.
+OPPO Reno 11,4.3,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+OPPO Reno 11,4.3,4,Satisfied,Display is bright and colourful.
+OPPO Reno 11,4.3,4,Nice product,Overall performance is good for the price.
+OPPO Reno 11,4.3,3,Average experience,Battery backup could be better.
+OPPO Reno 11,4.3,4,Value for money,Overall performance is good for the price.
+OPPO Reno 11,4.3,5,Mind-blowing purchase,Highly recommended for everyday use.
+Motorola Edge 50 Pro,4.4,2,Needs improvement,Camera quality did not meet expectations.
+Motorola Edge 50 Pro,4.4,3,Okay overall,Overall an average experience.
+Motorola Edge 50 Pro,4.4,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+Motorola Edge 50 Pro,4.4,4,Satisfied,Good software experience.
+Motorola Edge 50 Pro,4.4,5,Highly recommended,Gaming performance is excellent without heating.
+Motorola Edge 50 Pro,4.4,5,Excellent phone,Gaming performance is excellent without heating.
+Motorola Edge 50 Pro,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Motorola Edge 50 Pro,4.4,5,Awesome camera,Highly recommended for everyday use.
+Motorola Edge 50 Pro,4.4,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+Motorola Edge 50 Pro,4.4,5,Awesome camera,Highly recommended for everyday use.
+Motorola Edge 50 Pro,4.4,3,Okay overall,Camera is average in low light.
+Motorola Edge 50 Pro,4.4,4,Satisfied,Display is bright and colourful.
+Motorola Edge 50 Pro,4.4,4,Good choice,Battery lasts all day with moderate usage.
+Motorola Edge 50 Pro,4.4,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Motorola Edge 50 Pro,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Motorola Edge 50 Pro,4.4,4,Nice product,Overall performance is good for the price.
+Motorola Edge 50 Pro,4.4,4,Satisfied,Worth buying.
+Motorola Edge 50 Pro,4.4,4,Good choice,Good software experience.
+Motorola Edge 50 Pro,4.4,4,Satisfied,Good software experience.
+Motorola Edge 50 Pro,4.4,5,Excellent phone,Very fast phone with premium build quality.
+iQOO Neo 9 Pro,4.5,4,Value for money,Battery lasts all day with moderate usage.
+iQOO Neo 9 Pro,4.5,5,Excellent phone,Gaming performance is excellent without heating.
+iQOO Neo 9 Pro,4.5,4,Good choice,Overall performance is good for the price.
+iQOO Neo 9 Pro,4.5,5,Excellent phone,Very fast phone with premium build quality.
+iQOO Neo 9 Pro,4.5,5,Excellent phone,Gaming performance is excellent without heating.
+iQOO Neo 9 Pro,4.5,4,Value for money,Battery lasts all day with moderate usage.
+iQOO Neo 9 Pro,4.5,4,Satisfied,Good software experience.
+iQOO Neo 9 Pro,4.5,4,Satisfied,Battery lasts all day with moderate usage.
+iQOO Neo 9 Pro,4.5,4,Very good,Overall performance is good for the price.
+iQOO Neo 9 Pro,4.5,3,Decent phone,Expected more features.
+iQOO Neo 9 Pro,4.5,5,Excellent phone,"Excellent display, smooth performance and amazing battery life."
+iQOO Neo 9 Pro,4.5,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+iQOO Neo 9 Pro,4.5,4,Good choice,Overall performance is good for the price.
+iQOO Neo 9 Pro,4.5,5,Excellent phone,"Excellent display, smooth performance and amazing battery life."
+iQOO Neo 9 Pro,4.5,3,Mixed feelings,Performance is decent but software needs improvement.
+iQOO Neo 9 Pro,4.5,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+iQOO Neo 9 Pro,4.5,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+iQOO Neo 9 Pro,4.5,5,Highly recommended,Very fast phone with premium build quality.
+iQOO Neo 9 Pro,4.5,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+iQOO Neo 9 Pro,4.5,2,Disappointing battery,Software has occasional lag.
+Samsung Galaxy A55,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Samsung Galaxy A55,4.4,3,Average experience,Overall an average experience.
+Samsung Galaxy A55,4.4,4,Good choice,Display is bright and colourful.
+Samsung Galaxy A55,4.4,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Samsung Galaxy A55,4.4,5,Mind-blowing purchase,Very fast phone with premium build quality.
+Samsung Galaxy A55,4.4,4,Nice product,Battery lasts all day with moderate usage.
+Samsung Galaxy A55,4.4,5,Highly recommended,Very fast phone with premium build quality.
+Samsung Galaxy A55,4.4,4,Good choice,Display is bright and colourful.
+Samsung Galaxy A55,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+Samsung Galaxy A55,4.4,4,Value for money,Worth buying.
+Samsung Galaxy A55,4.4,5,Worth every penny,Gaming performance is excellent without heating.
+Samsung Galaxy A55,4.4,5,Mind-blowing purchase,Highly recommended for everyday use.
+Samsung Galaxy A55,4.4,4,Nice product,Battery lasts all day with moderate usage.
+Samsung Galaxy A55,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+Samsung Galaxy A55,4.4,4,Very good,Overall performance is good for the price.
+Samsung Galaxy A55,4.4,5,Excellent phone,Camera quality is outstanding in all lighting conditions.
+Samsung Galaxy A55,4.4,5,Highly recommended,Highly recommended for everyday use.
+Samsung Galaxy A55,4.4,4,Value for money,Display is bright and colourful.
+Samsung Galaxy A55,4.4,2,Needs improvement,Battery performance is disappointing.
+Samsung Galaxy A55,4.4,3,Mixed feelings,Battery backup could be better.
+Realme Narzo 70 Pro,4.3,4,Nice product,Overall performance is good for the price.
+Realme Narzo 70 Pro,4.3,3,Mixed feelings,Battery backup could be better.
+Realme Narzo 70 Pro,4.3,4,Value for money,Good software experience.
+Realme Narzo 70 Pro,4.3,4,Value for money,Battery lasts all day with moderate usage.
+Realme Narzo 70 Pro,4.3,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Realme Narzo 70 Pro,4.3,4,Value for money,Display is bright and colourful.
+Realme Narzo 70 Pro,4.3,4,Value for money,Worth buying.
+Realme Narzo 70 Pro,4.3,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+Realme Narzo 70 Pro,4.3,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Realme Narzo 70 Pro,4.3,4,Very good,Worth buying.
+Realme Narzo 70 Pro,4.3,5,Highly recommended,Gaming performance is excellent without heating.
+Realme Narzo 70 Pro,4.3,3,Okay overall,Camera is average in low light.
+Realme Narzo 70 Pro,4.3,2,Disappointing battery,Camera quality did not meet expectations.
+Realme Narzo 70 Pro,4.3,5,Highly recommended,"Excellent display, smooth performance and amazing battery life."
+Realme Narzo 70 Pro,4.3,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+Realme Narzo 70 Pro,4.3,5,Excellent phone,Very fast phone with premium build quality.
+Realme Narzo 70 Pro,4.3,5,Excellent phone,Gaming performance is excellent without heating.
+Realme Narzo 70 Pro,4.3,5,Awesome camera,Very fast phone with premium build quality.
+Realme Narzo 70 Pro,4.3,5,Mind-blowing purchase,Camera quality is outstanding in all lighting conditions.
+Realme Narzo 70 Pro,4.3,4,Very good,Display is bright and colourful.
+OnePlus Nord CE 4,4.4,3,Good but could improve,Overall an average experience.
+OnePlus Nord CE 4,4.4,5,Worth every penny,Highly recommended for everyday use.
+OnePlus Nord CE 4,4.4,5,Worth every penny,Gaming performance is excellent without heating.
+OnePlus Nord CE 4,4.4,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+OnePlus Nord CE 4,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+OnePlus Nord CE 4,4.4,4,Good choice,Battery lasts all day with moderate usage.
+OnePlus Nord CE 4,4.4,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+OnePlus Nord CE 4,4.4,5,Awesome camera,Highly recommended for everyday use.
+OnePlus Nord CE 4,4.4,4,Good choice,Battery lasts all day with moderate usage.
+OnePlus Nord CE 4,4.4,4,Satisfied,Battery lasts all day with moderate usage.
+OnePlus Nord CE 4,4.4,3,Mixed feelings,Expected more features.
+OnePlus Nord CE 4,4.4,2,Not as expected,Battery performance is disappointing.
+OnePlus Nord CE 4,4.4,5,Worth every penny,Gaming performance is excellent without heating.
+OnePlus Nord CE 4,4.4,5,Excellent phone,Very fast phone with premium build quality.
+OnePlus Nord CE 4,4.4,4,Satisfied,Display is bright and colourful.
+OnePlus Nord CE 4,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+OnePlus Nord CE 4,4.4,4,Very good,Display is bright and colourful.
+OnePlus Nord CE 4,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+OnePlus Nord CE 4,4.4,4,Nice product,Overall performance is good for the price.
+OnePlus Nord CE 4,4.4,4,Good choice,Display is bright and colourful.
+Redmi 13C,4.2,3,Okay overall,Camera is average in low light.
+Redmi 13C,4.2,5,Excellent phone,Camera quality is outstanding in all lighting conditions.
+Redmi 13C,4.2,5,Worth every penny,Gaming performance is excellent without heating.
+Redmi 13C,4.2,4,Satisfied,Good software experience.
+Redmi 13C,4.2,5,Highly recommended,Very fast phone with premium build quality.
+Redmi 13C,4.2,4,Satisfied,Overall performance is good for the price.
+Redmi 13C,4.2,3,Average experience,Expected more features.
+Redmi 13C,4.2,5,Highly recommended,Gaming performance is excellent without heating.
+Redmi 13C,4.2,5,Awesome camera,Gaming performance is excellent without heating.
+Redmi 13C,4.2,5,Excellent phone,Very fast phone with premium build quality.
+Redmi 13C,4.2,2,Disappointing battery,Battery performance is disappointing.
+Redmi 13C,4.2,5,Excellent phone,Highly recommended for everyday use.
+Redmi 13C,4.2,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Redmi 13C,4.2,4,Very good,Good software experience.
+Redmi 13C,4.2,4,Very good,Display is bright and colourful.
+Redmi 13C,4.2,4,Satisfied,Battery lasts all day with moderate usage.
+Redmi 13C,4.2,5,Excellent phone,Highly recommended for everyday use.
+Redmi 13C,4.2,4,Good choice,Good software experience.
+Redmi 13C,4.2,4,Satisfied,Overall performance is good for the price.
+Redmi 13C,4.2,5,Highly recommended,Gaming performance is excellent without heating.
+Nothing Phone 2a,4.4,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Nothing Phone 2a,4.4,5,Excellent phone,"Excellent display, smooth performance and amazing battery life."
+Nothing Phone 2a,4.4,4,Good choice,Good software experience.
+Nothing Phone 2a,4.4,5,Awesome camera,Gaming performance is excellent without heating.
+Nothing Phone 2a,4.4,4,Value for money,Worth buying.
+Nothing Phone 2a,4.4,3,Okay overall,Performance is decent but software needs improvement.
+Nothing Phone 2a,4.4,4,Nice product,Overall performance is good for the price.
+Nothing Phone 2a,4.4,5,Excellent phone,Camera quality is outstanding in all lighting conditions.
+Nothing Phone 2a,4.4,2,Could be better,Software has occasional lag.
+Nothing Phone 2a,4.4,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Nothing Phone 2a,4.4,4,Good choice,Worth buying.
+Nothing Phone 2a,4.4,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Nothing Phone 2a,4.4,4,Very good,Good software experience.
+Nothing Phone 2a,4.4,5,Awesome camera,Highly recommended for everyday use.
+Nothing Phone 2a,4.4,5,Highly recommended,Camera quality is outstanding in all lighting conditions.
+Nothing Phone 2a,4.4,4,Very good,Battery lasts all day with moderate usage.
+Nothing Phone 2a,4.4,5,Worth every penny,Camera quality is outstanding in all lighting conditions.
+Nothing Phone 2a,4.4,3,Average experience,Battery backup could be better.
+Nothing Phone 2a,4.4,5,Excellent phone,Gaming performance is excellent without heating.
+Nothing Phone 2a,4.4,4,Satisfied,Good software experience.
+Vivo T3,4.3,4,Good choice,Worth buying.
+Vivo T3,4.3,4,Good choice,Display is bright and colourful.
+Vivo T3,4.3,4,Value for money,Battery lasts all day with moderate usage.
+Vivo T3,4.3,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+Vivo T3,4.3,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Vivo T3,4.3,2,Could be better,Heating issue during gaming.
+Vivo T3,4.3,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+Vivo T3,4.3,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+Vivo T3,4.3,5,Awesome camera,Highly recommended for everyday use.
+Vivo T3,4.3,3,Average experience,Camera is average in low light.
+Vivo T3,4.3,4,Good choice,Worth buying.
+Vivo T3,4.3,5,Excellent phone,Very fast phone with premium build quality.
+Vivo T3,4.3,4,Very good,Good software experience.
+Vivo T3,4.3,5,Worth every penny,Gaming performance is excellent without heating.
+Vivo T3,4.3,4,Value for money,Battery lasts all day with moderate usage.
+Vivo T3,4.3,4,Good choice,Display is bright and colourful.
+Vivo T3,4.3,5,Highly recommended,Highly recommended for everyday use.
+Vivo T3,4.3,5,Mind-blowing purchase,Highly recommended for everyday use.
+Vivo T3,4.3,5,Worth every penny,Gaming performance is excellent without heating.
+Vivo T3,4.3,3,Decent phone,Battery backup could be better.
+OPPO F27 Pro+,4.2,3,Decent phone,Camera is average in low light.
+OPPO F27 Pro+,4.2,5,Mind-blowing purchase,Very fast phone with premium build quality.
+OPPO F27 Pro+,4.2,5,Worth every penny,Gaming performance is excellent without heating.
+OPPO F27 Pro+,4.2,4,Good choice,Good software experience.
+OPPO F27 Pro+,4.2,4,Satisfied,Good software experience.
+OPPO F27 Pro+,4.2,4,Nice product,Overall performance is good for the price.
+OPPO F27 Pro+,4.2,5,Highly recommended,Highly recommended for everyday use.
+OPPO F27 Pro+,4.2,2,Needs improvement,Battery performance is disappointing.
+OPPO F27 Pro+,4.2,5,Mind-blowing purchase,"Excellent display, smooth performance and amazing battery life."
+OPPO F27 Pro+,4.2,3,Mixed feelings,Overall an average experience.
+OPPO F27 Pro+,4.2,5,Excellent phone,Gaming performance is excellent without heating.
+OPPO F27 Pro+,4.2,4,Value for money,Display is bright and colourful.
+OPPO F27 Pro+,4.2,5,Excellent phone,Very fast phone with premium build quality.
+OPPO F27 Pro+,4.2,5,Worth every penny,"Excellent display, smooth performance and amazing battery life."
+OPPO F27 Pro+,4.2,4,Very good,Display is bright and colourful.
+OPPO F27 Pro+,4.2,4,Satisfied,Overall performance is good for the price.
+OPPO F27 Pro+,4.2,5,Excellent phone,Highly recommended for everyday use.
+OPPO F27 Pro+,4.2,4,Value for money,Battery lasts all day with moderate usage.
+OPPO F27 Pro+,4.2,5,Highly recommended,Highly recommended for everyday use.
+OPPO F27 Pro+,4.2,5,Awesome camera,Gaming performance is excellent without heating.
+Moto G85,4.3,5,Worth every penny,Highly recommended for everyday use.
+Moto G85,4.3,5,Highly recommended,Very fast phone with premium build quality.
+Moto G85,4.3,5,Awesome camera,"Excellent display, smooth performance and amazing battery life."
+Moto G85,4.3,5,Awesome camera,Camera quality is outstanding in all lighting conditions.
+Moto G85,4.3,4,Value for money,Display is bright and colourful.
+Moto G85,4.3,5,Worth every penny,Very fast phone with premium build quality.
+Moto G85,4.3,4,Satisfied,Battery lasts all day with moderate usage.
+Moto G85,4.3,3,Okay overall,Performance is decent but software needs improvement.
+Moto G85,4.3,5,Highly recommended,"Excellent display, smooth performance and amazing battery life."
+Moto G85,4.3,4,Nice product,Worth buying.
+Moto G85,4.3,3,Okay overall,Expected more features.
+Moto G85,4.3,5,Excellent phone,Highly recommended for everyday use.
+Moto G85,4.3,4,Satisfied,Battery lasts all day with moderate usage.
+Moto G85,4.3,5,Mind-blowing purchase,Highly recommended for everyday use.
+Moto G85,4.3,2,Could be better,Camera quality did not meet expectations.
+Moto G85,4.3,4,Good choice,Battery lasts all day with moderate usage.
+Moto G85,4.3,5,Mind-blowing purchase,Gaming performance is excellent without heating.
+Moto G85,4.3,4,Satisfied,Worth buying.
+Moto G85,4.3,5,Mind-blowing purchase,Very fast phone with premium build quality.
+Moto G85,4.3,4,Very good,Worth buying.

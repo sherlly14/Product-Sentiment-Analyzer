@@ -1,0 +1,22 @@
+PRODUCTS = [
+    "iPhone 15",
+    "Samsung Galaxy S24",
+    "OnePlus 12",
+    "Google Pixel 8",
+    "Nothing Phone 2",
+    "Realme GT 6",
+    "Redmi Note 13 Pro",
+    "POCO X6 Pro",
+    "Vivo V30",
+    "OPPO Reno 11",
+    "Motorola Edge 50 Pro",
+    "iQOO Neo 9 Pro",
+    "Samsung Galaxy A55",
+    "Realme Narzo 70 Pro",
+    "OnePlus Nord CE 4",
+    "Redmi 13C",
+    "Nothing Phone 2a",
+    "Vivo T3",
+    "OPPO F27 Pro+",
+    "Moto G85"
+]
