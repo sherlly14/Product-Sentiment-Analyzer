@@ -55,49 +55,16 @@ def get_reviews_by_product(product_name):
 # Get dashboard data for a specific product
 @app.route("/product/<product_name>", methods=["GET"])
 def get_product(product_name):
+    try:
+        count = collection.count_documents({"product_name": product_name})
 
-    reviews = list(collection.find({"product_name": product_name}))
+        return jsonify({
+            "product": product_name,
+            "count": count
+        })
 
-    if not reviews:
-        return jsonify({"error": "Product not found"}), 404
-
-    overall_rating = reviews[0]["overall_rating"]
-
-    sentiment_counts = Counter(review["sentiment"] for review in reviews)
-
-    sentiment_data = [
-        {
-            "name": "Positive",
-            "value": sentiment_counts.get("Positive", 0)
-        },
-        {
-            "name": "Negative",
-            "value": sentiment_counts.get("Negative", 0)
-        },
-        {
-            "name": "Neutral",
-            "value": sentiment_counts.get("Neutral", 0)
-        }
-    ]
-
-    rating_counts = Counter(review["review_rating"] for review in reviews)
-
-    rating_data = [
-        {"rating": 1, "count": rating_counts.get(1, 0)},
-        {"rating": 2, "count": rating_counts.get(2, 0)},
-        {"rating": 3, "count": rating_counts.get(3, 0)},
-        {"rating": 4, "count": rating_counts.get(4, 0)},
-        {"rating": 5, "count": rating_counts.get(5, 0)}
-    ]
-
-    return jsonify({
-        "name": product_name,
-        "rating": overall_rating,
-        "sentimentData": sentiment_data,
-        "ratingData": rating_data
-    })
-
-
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=False)
