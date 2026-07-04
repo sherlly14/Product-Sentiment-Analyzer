@@ -1,83 +1,51 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from "react";
+
+const API = "https://product-sentiment-analyzer-utip.onrender.com";
 
 function SearchBar({ setProduct }) {
-  const [query, setQuery] = useState('');
+  const [products, setProducts] = useState([]);
+  const [query, setQuery] = useState("");
 
-  // 🔥 CHANGE THIS TO YOUR RENDER BACKEND URL
-  const API_URL ="https://product-sentiment-analyzer-utip.onrender.com/";
+  useEffect(() => {
+    fetch(`${API}/products`)
+      .then((res) => res.json())
+      .then((data) => setProducts(data))
+      .catch((err) => console.error(err));
+  }, []);
 
   const handleSearch = async () => {
     if (!query) {
-      alert("Please select or enter a product");
+      alert("Please select a product");
       return;
     }
 
     try {
-      // 🔥 Fetch products from backend
-      const response = await fetch(`${API_URL}/products`);
-      const data = await response.json();
-
-      // Find matching product
-      const found = data.find(
-        (p) => p.toLowerCase() === query.toLowerCase()
-      );
-
-      if (found) {
-        setProduct(found);
-      } else {
-        alert("Product not found!");
-        setProduct(null);
-      }
-    } catch (error) {
-      console.error("Error fetching products:", error);
-      alert("Backend not reachable!");
-      setProduct(null);
+      const res = await fetch(`${API}/product/${encodeURIComponent(query)}`);
+      const data = await res.json();
+      setProduct(data);
+    } catch (err) {
+      console.error(err);
+      alert("Failed to fetch product data.");
     }
   };
 
   return (
-    <div style={styles.container}>
-      <input
-        style={styles.input}
-        type="text"
-        placeholder="Search product..."
+    <div style={{ textAlign: "center", marginBottom: "20px" }}>
+      <select
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-      />
+      >
+        <option value="">Select Product</option>
+        {products.map((p) => (
+          <option key={p} value={p}>
+            {p}
+          </option>
+        ))}
+      </select>
 
-      <button style={styles.button} onClick={handleSearch}>
-        🔍 Search
-      </button>
+      <button onClick={handleSearch}>Search</button>
     </div>
   );
 }
-
-const styles = {
-  container: {
-    display: "flex",
-    gap: "10px",
-    marginBottom: "30px",
-    justifyContent: "center",
-    alignItems: "center",
-    flexWrap: "wrap"
-  },
-  input: {
-    padding: "12px 20px",
-    fontSize: "1rem",
-    borderRadius: "25px",
-    border: "2px solid #3498db",
-    width: "300px",
-    outline: "none"
-  },
-  button: {
-    padding: "12px 25px",
-    fontSize: "1rem",
-    borderRadius: "25px",
-    border: "none",
-    background: "#3498db",
-    color: "white",
-    cursor: "pointer"
-  }
-};
 
 export default SearchBar;
