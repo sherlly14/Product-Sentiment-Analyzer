@@ -50,15 +50,7 @@ def get_reviews_by_product(product_name):
     )
 
     return jsonify(reviews)
-    reviews = list(
-        collection.find(
-            {"product_name": product_name},
-            {"_id": 0}
-        )
-    )
-
-    return jsonify(reviews)
-
+    
 
 # Get dashboard data for a specific product
 @app.route("/product/<product_name>", methods=["GET"])
